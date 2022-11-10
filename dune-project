@@ -9,7 +9,7 @@
  (homepage "https://github.com/jordwalke/flex")
  (bug_reports "https://github.com/jordwalke/flex/issues")
  (depends
-  (ocaml (and (>= 4.06.1) (< 4.10.0)))
+  (ocaml (and (>= 4.06.1) (< 5.0.0)))
   (reason (and (>= 3.0.0) (< 4.0.0)))
  )
 )
